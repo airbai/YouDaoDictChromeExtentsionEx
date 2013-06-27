@@ -12,6 +12,7 @@ http://dict.youdao.com/wordbook/ajax?action=addword&q=arduous&date=Thu%20Jun%202
 
 
 原来UI：
-
+![ScreenShot](https://raw.github.com/airbai/YouDaoDictChromeExtentsionEx/master/screenshots/original.png)
 
 修改后：
+![ScreenShot](https://raw.github.com/airbai/YouDaoDictChromeExtentsionEx/master/screenshots/updated.png)
