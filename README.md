@@ -11,8 +11,8 @@ http://dict.youdao.com/wordbook/ajax?action=addword&q=arduous&date=Thu%20Jun%202
 如果当前Chrome有道帐户未登录则添加失败，自动弹出有道登录页面。
 
 
-原来UI：
+#原来UI：
 ![ScreenShot](https://raw.github.com/airbai/YouDaoDictChromeExtentsionEx/master/screenshots/original.png)
 
-修改后：
+#修改后：
 ![ScreenShot](https://raw.github.com/airbai/YouDaoDictChromeExtentsionEx/master/screenshots/updated.png)
