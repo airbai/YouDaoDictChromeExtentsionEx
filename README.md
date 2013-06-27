@@ -1,8 +1,7 @@
 YouDaoDictChromeExtentsionEx
 ============================
 
-YouDaoDictChromeExtentsionEx 是在有道词典Chrome Extension的弹出框口上直接加一个“添加”按钮。
-用于将单词直接添加到单词本，不需要在有道词典页面去添加。
+#YouDaoDictChromeExtentsionEx 是在有道词典Chrome Extension的弹出框口上直接加一个“添加”按钮。用于将单词直接添加到单词本，不需要在有道词典页面去添加。
 
 主要修改：
 1. 在BackgroundPage.html增加“添加”按钮对应的html
