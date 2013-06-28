@@ -14,3 +14,13 @@ http://dict.youdao.com/wordbook/ajax?action=addword&q=arduous&date=Thu%20Jun%202
 
 #修改后：
 ![ScreenShot](http://ww1.sinaimg.cn/large/61de38fejw1e62ujtql1kj20ea07agmg.jpg)
+
+#怎么用这个修改：
+1. 安装[有道词典chrome划词插件](https://chrome.google.com/webstore/detail/%E6%9C%89%E9%81%93%E8%AF%8D%E5%85%B8chrome%E5%88%92%E8%AF%8D%E6%8F%92%E4%BB%B6/eopjamdnofihpioajgfdikhhbobonhbb)
+2. 下载https://github.com/airbai/YouDaoDictChromeExtentsionEx/archive/master.zip ，解电脑上的插件文件。
+文件位置：
+Windows XP: 
+%USERPROFILE%\Local Settings\Application Data\Google\Chrome\User Data\Default\Extensions\eopjamdnofihpioajgfdikhhbobonhbb\{版本号}\
+Windows Vista/ Windows 7/ Windows 8: 
+%LOCALAPPDATA%\Google\Chrome\User Data\Default\Extensions\eopjamdnofihpioajgfdikhhbobonhbb\{版本号}
+
